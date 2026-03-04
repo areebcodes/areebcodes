@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Areeb 👋
 
-<!--
-**areebcodes/areebcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year Software Engineering student at Ontario Tech University
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Python, Java, JavaScript, HTML/CSS + more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks & Libraries:** React, Flask + more
+
+**AI/ML:** LLMs, Applied AI Development
+
+**Tools:** Git, REST APIs
+
+## 🚀 Projects
+Coming soon — check back shortly.
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/meetareebkhan/)
